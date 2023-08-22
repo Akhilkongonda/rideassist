@@ -1,0 +1,19 @@
+.navv{
+        background-color:rgb(225, 246, 246);
+        border-top-right-radius: 15px;
+
+border-bottom-right-radius: 15px;
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;
+
+
+}
+/* .btn1:hover{
+        width: 150px;
+        
+        
+} */
+.btn1{
+        background-color: rgb(172, 181, 237);
+        border: 2px solid #eb250b;        
+}

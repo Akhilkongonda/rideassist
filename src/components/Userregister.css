@@ -1,0 +1,11 @@
+.bg1{
+    background-image: url("https://images.pexels.com/photos/5226497/pexels-photo-5226497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width: 1280px;
+    height:800px;
+    opacity: 0.9;
+    position: sticky;
+    background-size: cover;
+}
+.h12{
+    color:black
+}

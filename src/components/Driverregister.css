@@ -1,0 +1,36 @@
+.form{
+    padding: 300px;
+    max-width: 350px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background: #060808;
+    border-radius: 8px;
+    margin-top: 30px;
+    
+    
+}
+.btn1{
+    background:blue ;
+    display:block;
+    margin:auto
+}
+.h11{
+    color: rgba(237, 244, 235, 0.903);
+   
+  
+}
+.bg{
+    background-image: url("https://images.unsplash.com/photo-1581880769901-98d9623f6b45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    width: 1280px;
+    height:800px;
+    background-size: cover;
+    opacity: 0.9;
+    position:sticky;
+    
+    
+    
+    
+}
+.btnnn{
+    background-color: aqua;
+}
